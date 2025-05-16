@@ -7,3 +7,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone
 6053537/portainer-ce
 teamspeak
+jonnyan404/jusic
